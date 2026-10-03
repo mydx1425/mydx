@@ -1,2 +1,0 @@
-# mydx
-TYUT AI-Lab
